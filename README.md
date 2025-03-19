@@ -10,7 +10,8 @@
 
 ⚡ Always curious about tech that makes life easier!
 
-🔥 Skills & Interests
+
+🔥 Skills & Interests--
 
 📚 Languages: Python, C, C++, JavaScript
 
@@ -25,7 +26,7 @@
 ## 📫 Connect with Me
 - ✉️ [**Email**](mailto:debayanmaitra.cse@gmail.com)
 - 🔗 [**LinkedIn**](linkedin.com/in/debayan-maitra-44471b283)
-- 📸 [**Instagram**]([https://www.instagram.com/debayan.maitra](https://www.instagram.com/debayan_maitra?igsh=MTMxMXp0cDVyd2hxMg==))
+- 📸 [**Instagram**](https://www.instagram.com/debayan_maitra/)
 
 
 
