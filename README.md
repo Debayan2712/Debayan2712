@@ -25,7 +25,7 @@
 
 ## 📫 Connect with Me
 - ✉️ [**Email**](mailto:debayanmaitra.cse@gmail.com)
-- 🔗 [**LinkedIn**]((https://www.linkedin.com/in/debayan-maitra-44471b283/))
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/debayan-maitra-44471b283/)
 - 📸 [**Instagram**](https://www.instagram.com/debayan_maitra/)
 
 
