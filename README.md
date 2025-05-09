@@ -15,7 +15,7 @@
 
 📚 Languages: Python, C, C++, JavaScript
 
-🧩 Tech Stack: TensorFlow, OpenCV, HTML, CSS
+🧩 Tech Stack: TensorFlow, OpenCV, HTML,React JS, CSS, node.js
 
 🖥️ Version Control: Git & GitHub
 
